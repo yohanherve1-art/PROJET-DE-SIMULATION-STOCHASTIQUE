@@ -1,5 +1,5 @@
 # PROJET-DE-SIMULATION-STOCHASTIQUE
-Ce projet implémente et analyse en Python le **modèle de Wright-Fisher sans mutation**, une chaîne de Markov fondamentale en génétique des populations pour modéliser l'évolution stochastique de la fréquence des allèles[cite: 1, 2].
+Ce projet implémente et analyse en Python le **modèle de Wright-Fisher sans mutation**, une chaîne de Markov fondamentale en génétique des populations pour modéliser l'évolution stochastique de la fréquence des allèles.
 
 ## À propos du projet
 Le projet étudie l'évolution d'une population de $2N$ gènes au fil du temps à travers une chaîne de Markov $(X_k)$. Les principaux objectifs sont :
