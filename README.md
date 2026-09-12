@@ -11,10 +11,9 @@ Le projet étudie l'évolution d'une population de $2N$ gènes au fil du temps �
 ---
 
 ## Prérequis et Installation
-Librairies à télécharger
-pip install numpy scipy matplotlib
-Lancez Jupyter Notebook :
-jupyter notebook Stochastic_Simulation.ipynb
+Librairies à télécharger(`pip install numpy scipy matplotlib`)
+Lancez Jupyter Notebook : (`jupyter notebook Stochastic_Simulation.ipynb`)
+
 ---
 
 ## Structure du dépôt
